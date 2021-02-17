@@ -1,3 +1,3 @@
-# Django Project Template
+# Ecommerce
 
-Django project template
+A simple ecommerce application built with Python Django.
