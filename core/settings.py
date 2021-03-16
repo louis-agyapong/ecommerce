@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     # Local apps
     "store",
     # External apps
+    "django_extensions"
 ]
 
 MIDDLEWARE = [
